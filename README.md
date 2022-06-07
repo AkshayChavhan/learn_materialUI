@@ -1,2 +1,5 @@
-# learn_materialUI
-This is the lesson referred from net ninja to master in Material UI.
+### Starter Project for the Material UI playlist
+
+Download the code & run **npm install** to install dependencies before starting the app.
+
+You'll also need to install Material UI as a dependency. To do this run **npm install @material-ui/core**
