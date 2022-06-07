@@ -9,6 +9,9 @@ const theme = createTheme({
     primary :{
        main :"#d500f9",
     }
+  } ,
+  typography :{
+    fontFamily : 'Kdam Thmor Pro' , //check import link in index.css
   }
 })
 
